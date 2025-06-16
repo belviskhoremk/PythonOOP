@@ -15,12 +15,17 @@ Each file in this repository corresponds to a specific tutorial in the series:
 
 ## 📁 File Structure
 
-.
+
 ├── _1_classes_and_instances.py
+
 ├── _2_class_variables.py
+
 ├── _3_classmethods_and_staticmethods.py
+
 ├── _4_inheritance.py
+
 ├── _5_special_methods_or_magic_methods.py
+
 ├── _6_property_decorators.py
 
 
